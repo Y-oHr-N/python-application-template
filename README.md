@@ -1,5 +1,11 @@
 # python-application-template
 
+## Usage
+
+```
+poetry run python awesome_app
+```
+
 ## Testing
 
 ```
