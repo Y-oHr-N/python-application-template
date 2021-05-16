@@ -1,5 +1,13 @@
 # python-application-template
 
+A template for Python applications.
+
+## Installation
+
+```
+poetry install
+```
+
 ## Usage
 
 ```
