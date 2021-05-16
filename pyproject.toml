@@ -15,7 +15,7 @@ authors = ["Kon"]
 description = "A template for Python applications"
 exclude = ["tests"]
 license = "MIT License"
-name = "python-application-template"
+name = "awesome-application"
 version = "0.1.0"
 
 [tool.poetry.dependencies]
