@@ -10,6 +10,10 @@ line_length = 88
 multi_line_output = 3
 use_parentheses = true
 
+[tool.mypy]
+disallow_untyped_defs = true
+ignore_missing_imports = true
+
 [tool.poetry]
 authors = ["Kon"]
 description = "A template for Python applications"
